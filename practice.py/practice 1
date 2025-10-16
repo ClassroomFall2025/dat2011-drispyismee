@@ -1,0 +1,19 @@
+#class SinhVien:
+#   ten_sinh_vien = ""
+#   nam_sinh = ""
+#   truong = ""
+
+# def them_sinhvien(self, tensv, namsinh, truonghoc):
+# self.ten_sinh_vien = tensv 
+# self.nam_sinh = namsinh
+# self.truong = truonghoc
+# def xoa(self):
+#   pass
+# def xoa(self):
+#    pass
+#  def xuat_thong_tin(self):
+#    print(f"Sinh vien {self.ten_sinh_vien} nam sinh {self.nam_sinh} hoc tai {self.truong}")
+
+#sv1 = SinhVien()
+#sv1.them_sinhvien("Phuong", 1999, "FPT")
+#print(sv1.ten_sinh_vien)
